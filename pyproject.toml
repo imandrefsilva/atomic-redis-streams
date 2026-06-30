@@ -5,7 +5,7 @@ description = "Crash-safe, stateful processing on top of Redis Streams"
 readme = "README.md"
 license = { text = "GPL-3.0-only" }
 authors = [{ name = "André Silva", email = "andre.olivais@gmail.com" }]
-keywords = ["redis", "streams", "consumer", "transactions", "exactly-once"]
+keywords = ["redis", "streams", "consumer", "transactions", "exactly-once-delivery", "atomic"]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
